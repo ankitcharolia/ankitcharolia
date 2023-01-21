@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning GO Programming
 - 💞️ I’m looking to collaborate on kubernetes, AWS, GCP and Azure projects
 - 📫 THe best way to reach me is to send me an email on `ankitcharolia@gmail.com` or contact me on LinkedIN: https://www.linkedin.com/in/ankitcharolia/
-- 📰 My CV is available here: https://ankitcharolia.github.io
+- 📰 My CV is available here: https://ankitcharolia.github.io/cv/
 
 <!---
 ankitcharolia/ankitcharolia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
