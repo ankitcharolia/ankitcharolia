@@ -2,7 +2,7 @@
 - 👀 I’m interested in Kubernetes, AWS, GCP, Azure, Istio, ArgoCD, Terraform/Terragrunt, Kubernetes, Helm, CI/CD, Prometheus, Grafana.
 - 🌱 I’m currently learning GO Programming
 - 💞️ I’m looking to collaborate on kubernetes, AWS, GCP and Azure projects
-- 📫 THe best way to reach me is to send me an email on `ankitcharolia@gmail.com` or contact me on LinkedIN: https://www.linkedin.com/in/ankitcharolia/
+- 📫 The best way to reach me is to send me an email on `ankitcharolia@gmail.com` or contact me on LinkedIN: https://www.linkedin.com/in/ankitcharolia/
 - 📰 My CV is available here: https://ankitcharolia.github.io/cv/
 
 <!---
