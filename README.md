@@ -27,3 +27,10 @@ You can click the Preview link to take a look at your changes.
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+
+### Stats
+
+<div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankitcharolia&layout=compact&show_icons=true&theme=dark" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitcharolia&layout=compact&langs_count=6&theme=dark&hide=css,scss,html,tex,makefile" />
+</div>
