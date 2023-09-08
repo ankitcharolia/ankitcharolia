@@ -2,7 +2,6 @@
 - 👀 I’m interested in Kubernetes, AWS, GCP, Azure, Istio, ArgoCD, Terraform/Terragrunt, Kubernetes, Helm, CI/CD, Prometheus, Grafana, Kubernetes Operator Development.
 - 🌱 I’m currently learning GO Programming
 - 💞️ I’m looking to collaborate on kubernetes, AWS, GCP and Azure projects
-- 📰 My CV is available here: https://ankitcharolia.github.io/cv/
 
 <!---
 ankitcharolia/ankitcharolia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
