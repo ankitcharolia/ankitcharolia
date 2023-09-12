@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankitcharolia
 - 👀 I’m interested in Kubernetes, AWS, GCP, Azure, Istio, ArgoCD, Terraform/Terragrunt, Kubernetes, Helm, CI/CD, Prometheus, Grafana, Kubernetes Operator Development.
-- 🌱 I’m currently learning GO Programming
+- 🌱 I’m currently learning Golang and Kubernetes Operator Development.
 - 💞️ I’m looking to collaborate on kubernetes, AWS, GCP and Azure projects
 
 <!---
